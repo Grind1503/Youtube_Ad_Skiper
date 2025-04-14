@@ -76,7 +76,7 @@ The extension observes the YouTube video player using a MutationObserver. When a
 ## Contact
 
 Author: Aarthi E & Akash A  
-GitHub: github.com/Grind1508/Youtube_Ad_Skiper  
+GitHub: github.com/Grind1508  
 Email: aarthielumalaimaha@gmail.com || a.akash030305@gmail.com
 
 ---

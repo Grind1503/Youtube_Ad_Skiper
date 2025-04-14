@@ -47,7 +47,6 @@ This Chrome Extension automatically skips skippable ads on YouTube, giving you a
 - manifest.json — Describes the extension and its behavior
 - content.js — Script that auto-clicks "Skip Ad" button
 - background.js — Optional background worker file
-- icon.png — Icon file for the extension
 - README.md — Documentation
 
 ---
